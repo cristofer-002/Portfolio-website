@@ -249,7 +249,7 @@
 	{
 		text-align: center;
 		font-weight: 900;
-		font-size: 2.5em;
+		font-size: 3em;
 	}
 	
 	#logo h1 a
@@ -343,6 +343,7 @@
 	{
 		padding-bottom: 2em;
 		text-align: left;
+		font-size: large;
 	}
 	
 	#content h2
@@ -352,7 +353,7 @@
 	
 	#content .byline
 	{
-		padding-top: 0;
+		padding-top: 200px;
 		font-size: 1.5em;
 	}
 
@@ -451,6 +452,13 @@
 		float: right;
 	}
 
+	.column5
+	{
+		margin-left: auto;
+		margin-right: auto;
+		width: 600px;
+	}
+
 /*********************************************************************************/
 /* Portfolio                                                                     */
 /*********************************************************************************/
@@ -474,7 +482,7 @@
 	
 	#portfolio .box
 	{
-		padding: 30px;
+		padding: 40px;
 		background: #FFF;
 		border-bottom: 2px solid #7C7C7C;
 		border-right: 1px solid #DADADA;
